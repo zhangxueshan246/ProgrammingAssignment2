@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2
+## Thanks a lot to Fu Sheng Wang in the discussion Forum!
+## https://class.coursera.org/rprog-002/forum/thread?thread_id=696
 
 ## This function creates a special "matrix" object 
 ## that can cache its inverse.
